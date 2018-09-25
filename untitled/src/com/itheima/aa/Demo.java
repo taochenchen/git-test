@@ -7,4 +7,8 @@ public class Demo {
         System.out.println(666666);
         System.out.println(666666);
     }
+    public void test(){
+        int i = 2;
+        i += 10;
+    }
 }
