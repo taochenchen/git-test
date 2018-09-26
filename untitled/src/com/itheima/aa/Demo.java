@@ -6,6 +6,7 @@ public class Demo {
         System.out.println(666666);
         System.out.println(666666);
         System.out.println(666666);
+        System.out.println(666666);
         //hello demo
     }
     public void test(){
